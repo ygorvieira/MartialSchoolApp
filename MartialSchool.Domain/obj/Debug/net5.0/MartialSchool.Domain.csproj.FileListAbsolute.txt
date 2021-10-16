@@ -1,0 +1,12 @@
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\bin\Debug\net5.0\MartialSchool.Domain.deps.json
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\bin\Debug\net5.0\MartialSchool.Domain.dll
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\bin\Debug\net5.0\ref\MartialSchool.Domain.dll
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\bin\Debug\net5.0\MartialSchool.Domain.pdb
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\obj\Debug\net5.0\MartialSchool.Domain.csproj.AssemblyReference.cache
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\obj\Debug\net5.0\MartialSchool.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\obj\Debug\net5.0\MartialSchool.Domain.AssemblyInfoInputs.cache
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\obj\Debug\net5.0\MartialSchool.Domain.AssemblyInfo.cs
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\obj\Debug\net5.0\MartialSchool.Domain.csproj.CoreCompileInputs.cache
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\obj\Debug\net5.0\MartialSchool.Domain.dll
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\obj\Debug\net5.0\ref\MartialSchool.Domain.dll
+C:\PROJETOS\MartialSchool\MartialSchool\MartialSchool.Domain\obj\Debug\net5.0\MartialSchool.Domain.pdb
